@@ -1,0 +1,47 @@
+body {
+  background: #343a40;
+  color:white;
+  text-align:center;
+}
+/* navbar */
+.navbarextends{
+  padding: 0.1rem;
+  border-radius: 0.3rem;
+  background-color: white;
+  margin:1rem;
+}
+.navbarextends1{
+  border-radius: 1.8rem;
+  margin: 1rem;
+  background-color: white;
+  font-size: 1.1rem;
+}
+.mr-auto{
+  font-size: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar2{
+  font-size: 1.2rem;
+}
+.NS{
+  margin: 0.1rem;
+}
+/* footer */
+.footerextends{
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 0.3rem;
+  background-color: white;
+  color:grey;
+}
+
+/* admindashboard */
+.adminleft{
+  color: white;
+  background-color:slategrey;
+  text-decoration: none;
+}
+.adminright{
+  color: slategray;
+  text-align: left;
+}
