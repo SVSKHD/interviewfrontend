@@ -19,7 +19,7 @@ export default function AdminDashboard() {
         <h4 >Admin Dashboard</h4>
         <Card>
         <hr/>
-        <Link>
+        <Link to="/admin/create/category">
         <h6>Create Category</h6>
         </Link>
         <hr/>

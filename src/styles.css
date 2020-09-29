@@ -45,3 +45,10 @@ body {
   color: slategray;
   text-align: left;
 }
+/* category */
+.categoryform{
+  margin: 0.5rem;
+}
+.categoryedit{
+  color:grey
+}
